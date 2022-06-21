@@ -1,0 +1,3 @@
+1000 | vasco | holario | 222222222 | Isaura | holario | 34546 | helio | tembe | 3333333 | telma | tembe | 6666666 | Palacio | 12.11.2015 | 6000.0 | Divorciados | 
+1001 | Ramos | Tembe | 345346546 | Isaura | Tembe | 34546 | Marcos | Jaco | 436436 | Lina | Jaco | 325435 | Palacio | 15.3.2012 | 6000.0 | Casados | 
+1002 | Lino | tembe | 34546 | Isaura | Ibraimo | 2543646 | Ibraimo | Junir | 3453453 | Helena | Jaime | 3534654 | Palacio | 12.2.2013 | 6000.0 | Casados | 

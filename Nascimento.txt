@@ -1,0 +1,10 @@
+1000 | Junior | Neves | 234325 | m | Tete | 12.11.2012 | 200.0 | Adriano | Neves | 325435 | Lina | Langa | 234325 | M | Delma | Langa | 325345 | 15.2.2012 | 
+1001 | Chirlley | Samora | 324324532 | f | Maputo | 12.12.1998 | 200.0 | Samora | Timane | 43534534 | Cuanja | Muanza | 324324532 | M | Neima | Macombo | 234353 | 12.12.2019 | 
+1002 | Isaura | tembe | 34546 | f | Niassa | 15.2.2013 | 200.0 | Joao | tembe | 21453 | Lina | Manhica | 34546 | V
+1003 | Ramos | Tembe | 345346546 | m | Tete | 12.11.2012 | 200.0 | Marcos | Tembe | 3453465 | xxxxxx | xxxxxx | 345346546 | M | Wilton | tembe | 345346 | 15.2.2012 | 
+1004 | Marcos | Jaco | 436436 | m | Maputo | 15.11.2013 | 200.0 | xxxxxx | xxxxxx | 3534543 | Isaura | Tembe | 436436 | M | Joao | Neves | 3435435 | 15.2.2013 | 
+1005 | Lina | Jaco | 325435 | f | Tete | 1.1.2011 | 200.0 | Afonso | Jaco | 3454656 | Felita | Alexandre | 325435 | V
+1006 | Chirlley | Samora | 3253534 | f | Manica | 2.3.2010 | 200.0 | Samora | Timane | 334546 | Cuanja | David | 3253534 | V
+1007 | Esmenia | langa | 325346 | f | Tete | 12.12.2012 | 200.0 | Lucas | Tembe | 35345346 | Linda | Tembe | 325346 | M | Ilda | Jaime | 34546445 | 12.11.2015 | 
+1008 | Lino | Ibraimo | 2543646 | m | Tete | 12.11.2012 | 200.0 | xxxxx | xxxxx | xxxxx | Isaura | Limas | 2543646 | V
+1009 | Helena | Jaime | 3534654 | f | Inhambane | 15.2.2015 | 200.0 | Ricardo | Jaime | 3453453 | Lina | Matavele | 435464 | V
