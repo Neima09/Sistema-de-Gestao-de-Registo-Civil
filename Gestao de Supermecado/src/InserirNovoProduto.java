@@ -43,12 +43,12 @@ public class InserirNovoProduto extends OperacoesProduto{
                
                 
                 switch(Byte.parseByte(dado)){
-                    /*case 1: 
-                        /*cria um unico produto
+                    case 1: 
+                        /*cria um unico produto*/
                         Produto produto = new Produto();
                         preencheProduto(OPCOESPRO, produto);
                         posInsercao(produto);
-                        break;*/
+                        break;
                     case 2: 
                         //significa que so pode escolher dois atributos 
                         variosProdutos((byte) 2);
