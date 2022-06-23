@@ -111,14 +111,14 @@ public class Produto implements Serializable{
         System.out.println("Unidade: " + dadosProduto.getUnidade());
         System.out.println("Descricao do produto: " + dadosProduto.getDescricao());
         System.out.println("Marca do produto: " + dadosProduto.getMarca());
-        System.out.println("Preco do produto: " + dadosProduto.getPreco());
+        /*System.out.println("Preco do produto: " + dadosProduto.getPreco());
         System.out.println("Validade do produto: " + dadosProduto.getValidade());
         System.out.println("Categoria do produto: " + categoria.getCategoria());
         System.out.println("Fabricante: " + dadosProduto.getFabricante());
         System.out.println("Stock do produto: " + dadosProduto.getStock());
         System.out.println("Quantidade vendida: " + dadosProduto.getQtdVendida());
         System.out.println("_____________________________________________________");
-        System.out.println("");
+        System.out.println("");*/
     }
     
      /**
