@@ -1,0 +1,1 @@
+Alimentos;Bebidas;Brinquedos;Eletrodomesticos;Electronicos;Entreternimento;Higiene;Detergentes;Utensilios
