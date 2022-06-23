@@ -32,6 +32,7 @@ public class InserirNovoUsuario extends OperacoesUsuario{
             
             codigosUser = Ficheiros.Ficheirostxt("Codigos dos utilizadores");
             numUserRegistados = codigosUser.size();
+            //Dados dos usuarios
             users = Ficheiros.leituraFicheiro("Usuarios: ");
             dado = Validacao.Digitos("Quantos utilizadores pretende introduzir?\n", true);//qtd dos usuarios
             
