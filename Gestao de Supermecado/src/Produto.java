@@ -104,7 +104,7 @@ public class Produto implements Serializable{
      *
      */
     public void visualizaDados(){
-        System.out.println("");
+        /*System.out.println("");
         System.out.println("________________DADOS DO PRODUTO___________________");
         System.out.println("Referencia do produto: " + dadosProduto.getReferencia());
         System.out.println("Nome do produto: " + dadosProduto.getNome());
@@ -118,7 +118,7 @@ public class Produto implements Serializable{
         System.out.println("Stock do produto: " + dadosProduto.getStock());
         System.out.println("Quantidade vendida: " + dadosProduto.getQtdVendida());
         System.out.println("_____________________________________________________");
-        System.out.println("");
+        System.out.println("");*/
     }
     
      /**
