@@ -84,8 +84,8 @@ public class InserirNovoUsuario extends OperacoesUsuario{
                         user = null;
                         numUserRegistados--;
                         break;
-                    /*case 3:
-                        checkNovoUser = true;
+                    case 3:
+                        /*checkNovoUser = true;
                         codigosUser.addElement(String.valueOf(user.getCodigo()));
                         codigosUser.trimToSize();
                         users.addElement(user);
