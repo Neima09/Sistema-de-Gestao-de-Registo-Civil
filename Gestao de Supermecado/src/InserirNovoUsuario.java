@@ -26,9 +26,9 @@ public class InserirNovoUsuario extends OperacoesUsuario{
         users = new Vector();
         
         try{
-            System.out.println("");
+            /*System.out.println("");
             System.out.println("____________________INSERCAO DE USUARIOS______________________");
-            System.out.println("");
+            System.out.println("");*/
             
             codigosUser = Ficheiros.Ficheirostxt("Codigos dos utilizadores");
             numUserRegistados = codigosUser.size();
